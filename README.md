@@ -56,6 +56,6 @@ This project helped reinforce the power of simple linear models and the importan
 
 
 
-Thank you so much Elevvo Pathways team to guide me and give me opportunity to work with real world project.
+
 
 #MachineLearning #Regression #Python #DataScience #StudentProject #AI #ScikitLearn #Visualization #Kaggle #LinkedInLearning #PredictiveAnalytics
