@@ -37,3 +37,13 @@ Techniques: Logistic Regression, Decision Tree, Random Forest (tuned)
 Dataset: Kaggle - Loan Approval Prediction
 
 Goal: Develop a robust model to support loan approval decisions.
+
+5.Traffic Sign Recognition 🚦
+Classifies traffic signs into 43 categories using the GTSRB dataset. Images were preprocessed (32×32 resize, normalization, augmentation) for better generalization.
+
+Techniques: Custom CNN (Conv/Pooling, Dropout, Dense layers)
+
+Dataset: Kaggle – GTSRB (39,209 training, 12,630 testing samples)
+
+Goal: Build a reliable model for traffic sign classification in autonomous driving.
+
